@@ -2,12 +2,6 @@
 main.py  -  Control de Gastos Personales
 Programa de consola con menú. Se ejecuta con:   python main.py
 
-Temas de clase que se aplican aquí:
-- Entrada y salida de datos (input y print), variables y operadores.
-- Condicionales (if / elif / else) y ciclos (while y for).
-- Funciones con parámetros y valores de retorno.
-- Manejo de excepciones (try / except) para validar lo que escribe el usuario.
-- Módulos propios (modelos, almacenamiento, gestor) y el módulo datetime.
 """
 
 import math
