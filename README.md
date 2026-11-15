@@ -2,8 +2,6 @@
 
 Aplicación de consola desarrollada en Python para registrar ingresos y gastos, consultar balances, organizar movimientos y controlar presupuestos mensuales.
 
-Este proyecto forma parte de mi portafolio de aprendizaje en informática. Fue desarrollado como práctica de fundamentos de Python, programación orientada a objetos, manejo de archivos y pruebas automatizadas.
-
 ## Funcionalidades
 
 - Registrar ingresos y gastos con fecha, categoría, monto y descripción.
@@ -19,9 +17,7 @@ Este proyecto forma parte de mi portafolio de aprendizaje en informática. Fue d
 
 ## Tecnologías y herramientas
 
-- **Python 3** (3.10 o superior recomendado).
 - Módulos estándar: `csv`, `datetime`, `math`, `os` y `random`.
-- **Visual Studio Code** como entorno de desarrollo.
 - **unittest** para pruebas automatizadas.
 
 No requiere instalar paquetes externos.
@@ -117,13 +113,4 @@ Los movimientos y presupuestos se guardan localmente en la carpeta `datos/`. Est
 
 Las fechas futuras se permiten, pero el programa muestra una advertencia para que el usuario identifique que está registrando un movimiento programado.
 
-## Mejoras futuras
-
-- Incorporar una interfaz gráfica.
-- Exportar reportes mensuales.
-- Añadir filtros por rango de fechas.
-
----
-
-**Autor:** Jonathan González  
 **Proyecto:** Portafolio de aprendizaje – Python
