@@ -3,13 +3,6 @@ gestor.py
 Lógica del programa: la clase GestorGastos administra los movimientos,
 los presupuestos y los cálculos. No contiene menús ni input/print;
 eso está en main.py (así cada archivo tiene una sola responsabilidad).
-
-Temas de clase que se aplican aquí:
-- Listas, tuplas, diccionarios y conjuntos (sets).
-- Comprensiones de listas y de conjuntos.
-- Funciones lambda (para ordenar).
-- Módulos: math, random, datetime.
-- Excepciones (IndexError) y POO.
 """
 
 import math
